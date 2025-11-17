@@ -4,6 +4,7 @@
 // @version      1.0
 // @description  Dracula chat area, unified bubbles, code styling, sidebar/header, scrollbars, and disclaimer removal — all with feature toggles.
 // @author       Mohamed
+// @license      MIT
 // @match        https://chatgpt.com
 // @match        https://chatgpt.com/*
 // @grant        GM_addStyle
